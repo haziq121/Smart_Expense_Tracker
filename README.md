@@ -1,78 +1,17 @@
-# 💰 Expense Tracker App (Flutter)
+# stateful_1
 
-A simple and modern Expense Tracker app built with Flutter.
-It helps users manage income, expenses, and visualize financial data using charts.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-* ➕ Add Income & Expenses
-* 📊 Monthly Analytics (Charts)
-* 🧾 Transaction History List
-* 🗂️ Categories (Food, Travel, Bills, Shopping, Other)
-* 💵 Balance Calculation
-* 🗑️ Delete Transactions
-* 📈 Income vs Expense Visualization (Pie + Bar Chart)
-* 💾 Local Storage using Hive
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## 🛠️ Tech Stack
-
-* Flutter
-* Dart
-* Hive (Local Database)
-* fl_chart (Graphs & Charts)
-
----
-
-
----
-
-## 📂 Project Structure
-
-```
-lib/
- ├── main.dart
- ├── screens/
- │    ├── add_transaction.dart
- │    ├── chart_screen.dart
- │    └── home_screen.dart
- ├── models/
- │    └── transaction_model.dart
-```
-
----
-
-
-```bash
-flutter run
-```
-
----
-
-## 📊 Charts
-
-* Monthly Income vs Expense Line Chart
-* Category-wise Pie Chart
-* Bar Graph for Monthly Expenses
-
----
-
-## 💡 Future Improvements
-
-* Firebase Sync
-* Budget Alerts
-* Dark/Light Theme Toggle
-* Export PDF Reports
-* Authentication System
-
----
-
-
----
-
-## 📄 License
-
-This project is open-source and free to use.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
